@@ -9,9 +9,9 @@ By exploring and understanding the ChatConnect project, developers can gain insi
 The project serves as a valuable reference for implementing similar functionality in their own applications.
 
 Teammates
-Abipraba S
-Sharmila D
-Thanshiya S
-Vennila S
+Karthikeyan S
+Kalaiselvan S
+Madhavan S
+Selvakumar P
 
 Video Demo Link: https://drive.google.com/file/d/1-36v2MjMDjcxzxwRDZs0_wcvOsnXDVG6/view?usp=drivesdk
